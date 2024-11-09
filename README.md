@@ -1,5 +1,6 @@
 ## Hi there 👋! I'm Parth
 
+- 😄 Pronouns: He/Him
 - 📫 How to reach me: parth.h.chheda@gmail.com
 
 <!--

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parth</h1>
-<h3 align="center">A CS student at UBC</h3>
+<h3 align="center">Computer Science @ UBC</h3>
 
 - 👨‍💻 All of my projects are available at [https://parthchheda.netlify.app/](https://parthchheda.netlify.app/)
 

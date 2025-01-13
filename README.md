@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Parth Chheda</h1>
-<h3 align="center">Aspiring Software Developer | Computer Science @ UBC</h3>
+<h3 align="center">Computer Science @ UBC</h3>
 
 ---
 
-<p align="center">
-🌐 <a href="https://parthchheda.vercel.app/" target="_blank">Check out my portfolio</a>  
-📫 <a href="mailto:parth.h.chheda@gmail.com">parth.h.chheda@gmail.com</a>  
-📍 Vancouver, BC || Singapore  
-</p>
+- 🌐 <a href="https://parthchheda.vercel.app/" target="_blank">Check out my portfolio</a>  
+- 📫 <a href="mailto:parth.h.chheda@gmail.com">parth.h.chheda@gmail.com</a>  
+- 📍 Vancouver, BC || Singapore  
 
 ---
 
@@ -38,16 +36,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman" />
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthhchheda&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthhchheda&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">✨ Thanks for stopping by! ✨</p>
